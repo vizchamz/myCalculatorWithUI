@@ -1,0 +1,14 @@
+
+>
+java:S1659"#Declare "text2" on a separate line.(İÙÂÁÿÿÿÿÿ
+>
+java:S1659"#Declare "text3" on a separate line.(İÙÂÁÿÿÿÿÿ
+>
+java:S1659"#Declare "text4" on a separate line.(İÙÂÁÿÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ïÂåªıÿÿÿÿ
+T
+java:S2130">Use "Double.parseDouble" for this string-to-double conversion.(êûÆ
+Y
+java:S2130">Use "Double.parseDouble" for this string-to-double conversion.(ÂáÒ½ıÿÿÿÿ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(ÅúİÄ
